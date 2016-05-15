@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:46D0B441
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\io.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavreval\inc\stdio.h"
+NODE:V LEVEL:0 LINE:5 "ch -> R5"
+NODE:V LEVEL:0 LINE:6 "ch_2 -> R6,R7"
+NODE:V LEVEL:0 LINE:7 "ch_3 -> R8,R9"
+NODE:C LEVEL:0 LINE:8 "segment -> FLASH"
+NODE:F LEVEL:0 LINE:9 "speed(void)"
+NODE:F LEVEL:0 LINE:49 "xy(void)"
+NODE:F LEVEL:0 LINE:75 "encoder_pulses(void)"
+NODE:F LEVEL:0 LINE:88 "main(void)"

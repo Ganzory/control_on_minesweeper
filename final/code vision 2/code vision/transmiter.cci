@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:46E3733C
+NODE:I LEVEL:0 LINE:1 "C:\cvavreval\inc\io.h"
+NODE:I LEVEL:0 LINE:2 "C:\cvavreval\inc\mega32.h"
+NODE:I LEVEL:0 LINE:3 "C:\cvavreval\inc\delay.h"
+NODE:I LEVEL:0 LINE:4 "C:\cvavreval\inc\stdio.h"
+NODE:V LEVEL:0 LINE:5 "ch -> R5"
+NODE:V LEVEL:0 LINE:6 "ch_3 -> R6,R7"
+NODE:F LEVEL:0 LINE:8 "speed(void)"
+NODE:F LEVEL:0 LINE:31 "recive_data(void)"
+NODE:F LEVEL:0 LINE:53 "metal_detector(void)"
+NODE:F LEVEL:0 LINE:60 "transmit_data(unsigned char ch_2)"
+NODE:F LEVEL:0 LINE:68 "encoder_pulses(void)"
+NODE:F LEVEL:0 LINE:83 "main(void)"
